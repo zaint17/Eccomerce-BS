@@ -1,0 +1,1 @@
+export class UserErrorValue extends Error{}
